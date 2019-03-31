@@ -17,7 +17,7 @@ Included metrics for now :
 ### Requirements 
 
 1. [TensorboardX](https://github.com/lanpa/tensorboardX)
-2. [PSUTIL] (https://psutil.readthedocs.io/en/latest/)
+2. [PSUTIL](https://psutil.readthedocs.io/en/latest/)
 
 ### Installation 
 
