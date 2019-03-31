@@ -24,7 +24,7 @@ Included metrics for now :
 Add `GlobalSummaryWriter.py` to your project 
 
 ```python
-writer = SummaryWriter
+writer = SummaryWriter()
 writer.log_system_metrics(global_step=)
 ```
 
